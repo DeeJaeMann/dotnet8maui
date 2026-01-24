@@ -74,4 +74,8 @@
       </MauiIcon>
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\Recipes.Client.Core\Recipes.Client.Core.csproj" />
+    </ItemGroup>
+
 </Project>
